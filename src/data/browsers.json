@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mozilla",
+    "logo": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+    "description": "Mozilla Firefox is a popular open-source web browser developed by the Mozilla Foundation."
+  },
+  {
+    "name": "Chrome",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/768px-Google_Chrome_icon_%28September_2014%29.svg.png",
+    "description": "Google Chrome is a cross-platform web browser developed by Google. It is the most widely used browser globally."
+  },
+  {
+    "name": "Edge",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Edge_logo_%282019%29.png/800px-Microsoft_Edge_logo_%282019%29.png",
+    "description": "Microsoft Edge is a web browser developed by Microsoft. It is the default browser on Windows 10."
+  }
+]
